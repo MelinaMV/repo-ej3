@@ -1,0 +1,57 @@
+*{
+    font-family: Verdana, Arial, sans-serif;
+    background-color: #edece9;
+    color: #775548;
+}
+
+.titulo1{
+    font-size: 55px;
+
+}
+.menu-color{
+    font-size: 35px;
+    font-weight: bold;
+    color: #ef6d24;    
+}
+
+.titulo{
+    background-color: #775548;
+    color: #e1d4cf;
+    
+}
+
+.titulo-2{
+    background-color: #775548;
+    color: #e1d4cf;
+    padding: 15px;
+}
+
+.titulo-especial{
+    background-color: #775548;
+    color: #d8b03b;
+}
+
+.palabra-naranja{
+    color: #ef6d24;
+    font-weight: bold;
+}
+
+.palabra-rojo{
+    color: red;
+    font-weight: bold;
+}
+
+.palabra-azul{
+    color: #3aabc4;
+    font-weight: bold;
+}
+
+.precios{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.imagen{
+    border: 8px solid #ef6d24;
+}
+
